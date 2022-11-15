@@ -8,6 +8,6 @@
 
 <p>Entusiasta da tecnologia, e amante do desenvolvimento de aplicações.</p>
 
-<p>"O ato de desenvolver aplicações se fundamenta na ideologia de solucionar problemas de uma comunidade específica. Logo, não existe tecnologias melhores que outras, existem tecnologias que te atendem em determinado momento."</p>
+<p>Admirador da ciência da computação, e de suas engenharias.</p>
 
-<!-- <a href=""><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" alt=""></a> -->
+<p>"O ato de desenvolver aplicações se fundamenta na ideologia de solucionar problemas de uma comunidade específica. Logo, não existe tecnologias melhores que outras, existem tecnologias que te atendem em determinado momento."</p>
