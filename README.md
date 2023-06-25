@@ -1,13 +1,19 @@
-<h1>Douglas Badaró</h1>
+# Hi there
 
-<p>Estudante de Técnico em Informática pelo IFNMG.</p>
+Sou Douglas Badaró, um desenvolvedor de software apaixonado e entusiasta da tecnologia, e sobretudo amante de desafios. Atualmente estagio como desenvolvedor de software na  Automatiza Sistemas, e curso Técnico em Informática no Instituto Federal do Norte de Minas Gerais.
 
-<a href="https://www.linkedin.com/in/douggbadaro/"><img src="https://img.shields.io/badge/douggbadaro-6646B1?style=flat-square&logo=linkedin&logoColor=white" alt=""></a>
-<a href="https://twitter.com/douggbadaro"><img src="https://img.shields.io/badge/douggbadaro-6646B1?style=flat-square&logo=twitter&logoColor=white" alt=""></a>
-<a href=""><img src="https://img.shields.io/badge/douglas.badaro@outlook.com-6646B1?style=flat-square&logo=microsoft-outlook&logoColor=white" alt=""></a>
+# 💻 Tech Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<p>Entusiasta da tecnologia, e amante do desenvolvimento de aplicações.</p>
+# 🌐 Socials:
 
-<p>Admirador da ciência da computação, e de suas engenharias.</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douggbadaro/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dougbadaro/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/douggbadaro)
 
-<p>"O ato de desenvolver aplicações se fundamenta na ideologia de solucionar problemas de uma comunidade específica. Logo, não existe tecnologias melhores que outras, existem tecnologias que te atendem em determinado momento."</p>
+# 📊 GitHub Stats:
+
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=douggbadaro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" style="padding-right: 20px;" width="380em" height="180em" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=douggbadaro&theme=midnight-purple&hide_border=false" width="418em" height="180em" /> 
+
+
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=douggbadaro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
