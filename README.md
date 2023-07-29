@@ -11,7 +11,7 @@ Sou Douglas Badaró, um desenvolvedor de software apaixonado e entusiasta da tec
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=dougbadaro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" style="padding-right: 20px;" width="380em" height="180em" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=douggbadaro&theme=midnight-purple&hide_border=false" width="418em" height="180em" /> 
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=dougbadaro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" style="padding-right: 20px;" width="380em" height="180em" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dougbadaro&theme=midnight-purple&hide_border=false" width="418em" height="180em" /> 
 
 
 
